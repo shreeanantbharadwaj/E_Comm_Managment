@@ -20,3 +20,27 @@ Before you can run the system, ensure you have the following installed:
 ## Installation
 To set up the project on your local machine:
 1. Clone the repository:
+
+
+2. Install the required Python packages:
+
+
+
+## Usage
+Navigate to the project directory and run the main application:
+
+
+You can also interact with specific modules by running their corresponding scripts:
+
+
+
+
+## Contributing
+Contributions to this project are welcome. Please fork the repository and submit a pull request with your features or fixes.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
+
+## Acknowledgments
+- Professor Manuel Montrond for guidance and support throughout the project development.
+- Team Members: Bhavya Parmar, Saurabh Abarao Vyawahare, Shreeanant Bharadwaj, Srimanth Babu Gattamaneni, Spoorthi Kulkarni.
