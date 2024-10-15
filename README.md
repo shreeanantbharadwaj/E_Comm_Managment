@@ -3,6 +3,14 @@
 ## Overview
 This repository contains the source code for the E-commerce Management System designed for managing inventory, orders, deliveries, and customer interactions efficiently. This system is built to handle the complexities of modern e-commerce operations, offering features like real-time inventory updates, order processing, transaction management, and customer relationship management.
 
+##Abstract
+-The system was built using Python with libraries such as Flask and SQLAlchemy.
+-The database design followed Entity-Relationship Diagram (ERD) principles, with 15 tables representing key business entities.
+-Relational database concepts were implemented, including primary keys, foreign keys, and associative entities to manage relationships.
+-The system supports BI Data Visualization for real-time business insights.
+-A GUI for CRUD operations was developed to facilitate user interaction with the system.
+-Column Data Encryption and Non-Clustered Indexes were applied for data security and performance optimization.
+
 ## Features
 - **Customer Management**: Manage customer data, including contact details and transaction history.
 - **Inventory Management**: Real-time tracking of item stocks and specifications.
